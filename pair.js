@@ -62,21 +62,21 @@ router.get('/', async (req, res) => {
 
                     const successMsg = {
                         text:
-                            `🚀 *ARSLAN-MD Session Created!*\n\n` +
+                            `🚀 *E3-AHMII-MD Session Created!*\n\n` +
                             `▸ *Never share* your session ID\n` +
                             `▸ Join our WhatsApp Channel\n` +
                             `▸ Report bugs on GitHub\n\n` +
-                            `_Powered by ARSLAN-MD\n\n` +
+                            `_Powered by ♛彡 𝙴𝟹 𝙰𝙷𝙼𝙸𝙸 𝙼𝙳 彡♛\n\n` +
                             `🔗 *Useful Links:*\n` +
-                            `▸ GitHub: https://github.com/Arslan-MD/Arslan_MD\n` +
-                            `▸ https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306`,
+                            `▸ GitHub: https://github.com/E3-AHMII-MD/E3-AHMII-MD\n` +
+                            `▸ https://https://whatsapp.com/channel/0029Vb72ICa1Hsq24tOjJX0J`,
                         contextInfo: {
                             mentionedJid: [sock.user.id],
                             forwardingScore: 1000,
                             isForwarded: true,
                             forwardedNewsletterMessageInfo: {
                                 newsletterJid: "120363348739987203@newsletter",
-                                newsletterName: "ARSLAN-MD",
+                                newsletterName: "E3-AHMII-MD",
                                 serverMessageId: 143
                             }
                         }
